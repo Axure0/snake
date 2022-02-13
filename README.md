@@ -1,2 +1,2 @@
 # To Do
-- Death Screen
+- Death Screen  (currently the game just freezes)
